@@ -2,8 +2,8 @@
     "alias": "t59",
     "version": 2,
     "env": {
-      "MONGO_URI":"BASE_URL",
-      "SECRET": "SECRET",
-      "PORT": "PORT"      
+      "MONGO_URI":"@MONGO_URI",
+      "SECRET": "@SECRET",
+      "PORT": "@PORT"      
     }
   }
